@@ -5,6 +5,8 @@ repo: status-pages # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: DebugGoogle
+    url: https://www.Debuggoogle.com
   - name: LeverUp Service
     url: https://service.leverup.xyz/sys/health
   - name: LeverUp OneClick service

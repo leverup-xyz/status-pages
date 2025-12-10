@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 263,
-    "timeWeek": 263,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "time": 242,
+    "timeDay": 242,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 217,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 217,
+    "time": 204,
+    "timeDay": 204,
+    "timeWeek": 204,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "DebugGoogle",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "debug-google",
-    "status": "up",
-    "uptime": "0.60%",
-    "uptimeDay": "0.60%",
-    "uptimeWeek": "0.60%",
-    "uptimeMonth": "0.60%",
-    "uptimeYear": "0.60%",
-    "time": 87,
-    "timeDay": 87,
-    "timeWeek": 87,
-    "timeMonth": 87,
-    "timeYear": 87,
-    "dailyMinutesDown": {
-      "2025-12-10": 11
-    }
   }
 ]

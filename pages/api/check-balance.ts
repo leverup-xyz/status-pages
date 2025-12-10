@@ -17,8 +17,7 @@ const keepers: Keeper[] = [
     {
         name: "leverup-1CT-keeper",
         address: "0x823381c24a940De5a777f87AF21C98701E7C54e0",
-        // targetBalance: 500,
-        targetBalance: 20000,
+        targetBalance: 500,
     },
     {
         name: "leverup-market-order-keeper",

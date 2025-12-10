@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: DebugGoogle
-    url: https://www.Debuggoogle.com
+    url: https://www.google.com
   - name: LeverUp Service
     url: https://service.leverup.xyz/sys/health
   - name: LeverUp OneClick service

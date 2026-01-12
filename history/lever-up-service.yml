@@ -1,7 +1,7 @@
 url: https://service.leverup.xyz/sys/health
-status: down
-code: 503
-responseTime: 237
-lastUpdated: 2026-01-12T23:27:54.647Z
+status: up
+code: 200
+responseTime: 244
+lastUpdated: 2026-01-12T23:32:51.846Z
 startTime: 2025-12-10T03:36:49.914Z
 generator: Upptime <https://github.com/upptime/upptime>

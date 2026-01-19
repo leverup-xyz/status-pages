@@ -1,7 +1,7 @@
 url: https://leverup-status-pages.vercel.app/api/check-balance
-status: down
-code: 500
-responseTime: 272
-lastUpdated: 2026-01-19T08:22:53.571Z
+status: up
+code: 200
+responseTime: 869
+lastUpdated: 2026-01-19T08:27:54.269Z
 startTime: 2025-12-10T13:24:58.365Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -28,9 +28,9 @@
     "url": "https://oneclick-01-keeper.leverup.xyz/sys/health",
     "icon": "https://icons.duckduckgo.com/ip3/oneclick-01-keeper.leverup.xyz.ico",
     "slug": "lever-up-one-click-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -40,6 +40,7 @@
     "timeMonth": 220,
     "timeYear": 208,
     "dailyMinutesDown": {
+      "2026-02-04": 0,
       "2026-01-19": 5,
       "2026-01-12": 5
     }

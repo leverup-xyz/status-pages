@@ -60,16 +60,16 @@
     "url": "https://leverup-status-pages.vercel.app/api/check-balance",
     "icon": "https://icons.duckduckgo.com/ip3/leverup-status-pages.vercel.app.ico",
     "slug": "keeper-balance",
-    "status": "down",
-    "uptime": "97.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.93%",
+    "status": "up",
+    "uptime": "97.92%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "97.92%",
     "time": 792,
-    "timeDay": 432,
+    "timeDay": 484,
     "timeWeek": 591,
-    "timeMonth": 631,
+    "timeMonth": 629,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2025-12-10": 13,
@@ -98,7 +98,7 @@
       "2026-06-01": 318,
       "2026-06-09": 567,
       "2026-06-21": 101,
-      "2026-08-18": 0
+      "2026-08-18": 28
     }
   }
 ]
